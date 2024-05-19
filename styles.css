@@ -1,0 +1,12 @@
+
+.main-container{
+    
+}
+
+.center{
+    width: 50%;
+    margin: auto;
+    border: 5px solid;
+    border-color: brown;
+    padding: 10px;
+}
