@@ -1,12 +1,46 @@
 
+@font-face{
+    font-family: "CatCafe";
+    src: url('CatCafe.ttf');
+}
+
 .main-container{
     
 }
 
-.center{
-    width: 50%;
+.center-container{
+    width: 56%;
     margin: auto;
+    margin-top: 10px;
     border: 5px solid;
     border-color: brown;
     padding: 10px;
+    background-color: bisque;
+}
+
+.center{
+
+}
+
+.big-font{
+    font-family: "CatCafe";
+    font-size: 60pt;
+}
+
+.small-font{
+    font-family: "Trebuchet MS";
+}
+
+.centered-text{
+    text-align: center;
+}
+
+.section-name{
+    font-family: "CatCafe";
+    font-size: 40pt;
+}
+
+.subsection-name{
+    font-family: "CatCafe";
+    font-size: 30pt;
 }
