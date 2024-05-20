@@ -44,3 +44,21 @@
     font-family: "CatCafe";
     font-size: 30pt;
 }
+
+.figure-box{
+    align-items: center;
+    float: left;
+}
+
+.figure{
+    float: left;
+    padding: 5px;
+}
+
+.subsection-container{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    /*border: 2px solid black;*/
+    float: left;
+}
