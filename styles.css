@@ -62,3 +62,13 @@
     /*border: 2px solid black;*/
     float: left;
 }
+
+.img-40pct{
+    width: 40%;
+    height: auto;
+}
+
+.img-contain{
+    max-width: 100%;
+    max-height: 100%;
+}
